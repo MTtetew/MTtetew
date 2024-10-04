@@ -1,7 +1,8 @@
 ## Olaaa aqui quem fala é o matheus 😁
 
 - 🌱Cursando tecnico de informatica
--🖌️Web Designer
+- 🖌️Web Designer
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MTtetew&show_icons=true&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MTtetew&show_icons=true&theme=highcontrast)
